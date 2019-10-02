@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Story behind the development of UNIX operating system"
-author: Swapnil
+author: Swapnil Vivek Kulkarni
 categories: [ Technology, History]
 image: assets/images/Story Behind.PNG
 tags: [sticky]

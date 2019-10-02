@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Spiritual Geek'
+description: 'Technology | Mythology | Culture | Life Science'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+disqus: 'spiritual-geek'
+email: 'swapnil_kulkarni@outlook.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -19,20 +19,20 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+    swapnil:
+      name:           Swapnil Vivek Kulkarni
+      site:           spiritual-geek.github.io
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      bio:            "Hi, The author is a software engineer at Siemens PLM Software, Pune. He is inspired by open source software systems, loves to explore new technologies and enjoys programming. In his spare time, he likes to write articles on FOSS. He tweets as @swapnilkul."
       email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://twitter.com/swapnilkul
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+    smruti:
+      name:           Smruti Prayag
+      site:           spiritual-geek.github.io
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
+      email:          kulsmru@gmail.com
       twitter:        https://twitter.com/wowthemesnet
  
 # Defaults

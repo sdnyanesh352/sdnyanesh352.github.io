@@ -7,7 +7,7 @@ image: assets/images/Story Behind.PNG
 tags: [sticky]
 ---
 
-This article relates the story behind the development of the UNIX operating system — how it became the world’s most popular OS, the visionaries and organizations behind its success, and how it is related to the open source world.
+>This article relates the story behind the development of the UNIX operating system — how it became the world’s most popular OS, the visionaries and organizations behind its success, and how it is related to the open source world.
 
 All of us know that UNIX is the world’s first operating system and was developed at Bell Labs. Till date, it is the most powerful, versatile and flexible server operating system in the computing world. 
 
@@ -25,7 +25,7 @@ The following year, a new version of UNIX and a high-level programming language,
 
 In November 1973, Ken Thompson and Dennis Ritchie formally presented the UNIX operating system to the outside world for the first time at a conference called ‘The Symposium on Operating Systems Principles at Purdue University, USA. A number of students, researchers, professors and representatives from private organizations were present at the event.
 
-There was also one special person present that day, who changed the direction of UNIX development — Prof. Bob Fabry from the University of California, Berkeley, was responsible for taking UNIX to Berkeley.
+>There was also one special person present that day, who changed the direction of UNIX development — Prof. Bob Fabry from the University of California, Berkeley, was responsible for taking UNIX to Berkeley.
 After the conference, UNIX become public and the buzzword for computing power. Newspapers and magazines featured stories about this new computing system. UNIX was made available to the government, the military and to universities on a licensed basis.
 
 Prof. Bob Fabry obtained a copy of UNIX for US$ 99 in order to cut costs when setting up the campus computing resources for research at the university. At that time, a UNIX licence also came with the entire source code, and researchers could modify and extend it. Graduate student Bill Joy, along with researchers and hackers from Berkeley, started working on making changes to the original UNIX.
@@ -54,7 +54,7 @@ The obvious question now is that if UNIX contains everything — one branch for 
 
 In 1984, AT&T started selling UNIX as a proprietary product, and entered into a courtroom battle with BSD. It took AT&T five years to win that legal battle. During this time, businesses went with AT&T’s clean room implementation to avoid any problems — people were looking for a System V style OS rather than a BSD style OS; so the popularity of BSD UNIX went down.
 
-The Linux operating system was introduced in 1991. It was primarily developed for personal computers whereas UNIX was designed for server computers. So, researchers, students and businesses got attracted to Linux, mainly because Linux installation was economical and did not require much specific and high-end hardware.
+>The Linux operating system was introduced in 1991. It was primarily developed for personal computers whereas UNIX was designed for server computers. So, researchers, students and businesses got attracted to Linux, mainly because Linux installation was economical and did not require much specific and high-end hardware.
 
 Enterprises were much slower to take on Linux, but soon commercial support was available with Red Hat and others. Commercial software vendors started porting their applications to Linux. It was only a matter of time before Linux took over from proprietary UNIX derivatives. Linux was UNIX at a much lower cost.
 

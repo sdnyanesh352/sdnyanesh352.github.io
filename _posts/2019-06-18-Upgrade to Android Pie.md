@@ -92,14 +92,12 @@ provided by the vendor, and the other is the unofficial method which may lead to
 ## Installing Pixel Experience on a Xiaomi device
 The previous section covered concepts that we needed to be clear about before flashing a custom ROM. Now let’s go through a step by step procedure to install a custom ROM on any Android
 device. We’re working specifically on a Redmi device and this is based on my own experience.
-
 Here are some points to remember before unlocking the bootloader:
+- Take the phone’s backup on a PC/ laptop (you are unlikely to lose any data, and this step is just a precaution).
+- Unlocking the bootloader voids the warranty.
+- Make sure that the zip file of the Android ROM is downloaded to the device's internal memory or SD card.
+- Make sure that the bootloader of the device is unlocked after the unlock process completes, because a wrong attempt may brick the device.
 
- * Take the phone’s backup on a PC/ laptop (you are unlikely to lose any data, and this step is just a precaution).
- * Unlocking the bootloader voids the warranty.
- * Make sure that the zip file of the Android ROM is downloaded to the device's internal memory or SD card.
- * Make sure that the bootloader of the device is unlocked after the unlock process completes, because a wrong attempt may brick the device.
-    
 ### Steps to follow on a laptop/PC
   1. On your laptop/PC, navigate to https://en.miui.com/unlock/ and click on the Unlock Now button.
   2. Log in to the MI account with the credentials you used to log into your device.

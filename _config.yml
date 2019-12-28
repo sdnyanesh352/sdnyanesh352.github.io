@@ -21,7 +21,7 @@ plugins:
 authors:
     swapnil:
       name:           Swapnil
-      site:           spiritual-geek.github.io
+      site:           https://spiritual-geek.github.io
       avatar:         assets/images/avatar1.jpg
       bio:            "Software Professional, Tech Enthusiast, Nationalist, Proud Indian"
       email:          swapnil_kulkarni@outlook.com
@@ -29,7 +29,7 @@ authors:
 
     smruti:
       name:           Smruti
-      site:           spiritual-geek.github.io
+      site:           https://spiritual-geek.github.io
       avatar:         assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          kulsmru@gmail.com

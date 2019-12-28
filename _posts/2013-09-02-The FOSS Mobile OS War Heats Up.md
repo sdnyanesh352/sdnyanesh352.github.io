@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The FOSS Mobile OS War Heats Up!"
-author: Swapnil
+author: swapnil
 categories: [ Insight ]
 image: https://1.bp.blogspot.com/-6UWNLvj4AfU/XNxFnNYfYMI/AAAAAAAAZxY/waeh30FvYvwMad7y-_HkURHh5us3MKCkQCLcBGAs/s1600/rami-al-zayat-170349-unsplash%25281%2529.jpg
 tags: [featured]

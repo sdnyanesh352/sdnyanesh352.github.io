@@ -22,7 +22,7 @@ authors:
     swapnil:
       name:           Swapnil
       site:           spiritual-geek.github.io
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "Software Professional, Tech Enthusiast, Nationalist, Proud Indian"
       email:          swapnil_kulkarni@outlook.com
       twitter:        https://twitter.com/swapnilkul
@@ -30,7 +30,7 @@ authors:
     smruti:
       name:           Smruti
       site:           spiritual-geek.github.io
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          kulsmru@gmail.com
       twitter:        https://twitter.com/wowthemesnet
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: post
       author: swapnil
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:

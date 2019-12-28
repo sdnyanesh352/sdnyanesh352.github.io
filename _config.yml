@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Spiritual Geek'
+description: 'Technology | Mythology | Culture | Life Science'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+baseurl: 'https://spiritual-geek.github.io'
+disqus: 'spiritual-geek'
+email: 'swapnil_kulkarni@outlook.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -24,7 +24,7 @@ authors:
       site:           https://www.wowthemes.net
       avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am swapnil, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
+      email:          swapnil_kulkarni@outlook.com
       twitter:        https://twitter.com/wowthemesnet
 
     smruti:

@@ -4,7 +4,7 @@ title:  "Story behind the development of UNIX operating system"
 author: swapnil
 categories: [ Technology, History]
 image: assets/images/Story Behind.PNG
-tags: [featured]
+tags: [sticky]
 ---
 
 >This article relates the story behind the development of the UNIX operating system — how it became the world’s most popular OS, the visionaries and organizations behind its success, and how it is related to the open source world.

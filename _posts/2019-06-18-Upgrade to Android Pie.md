@@ -108,26 +108,28 @@ Here are some points to remember before unlocking the bootloader:
   7. Make sure that the device is properly connected to the PC using a USB cable (the status will be shown in the application).
  
 ### Steps to follow on a mobile phone 
-  1. Go to Settings->About phone.
-  2. Tap five times on the MIUI version; it will enable the Developer option on your device.
-  3. Go to Settings->Additional Settings -> Developer options and tap on OEM unlocking. Do not enable this but click on the text to go inside.
-  4. Enter your password/PIN (whichever is set to the device for confirmation) and enable the option.
-  5. Go to Settings->Additional Settings -> Developer options, and then go to MIUI status and tap on Add account. This step will add the MI account to unlock the bootloader. Sometimes the account does not get added, in which case, restart the phone.
-  6. Enable USB debugging from Settings->Additional Settings -> Developer options.
-  7. Switch off the phone and press the Power button and the ‘volume down’ key simultaneously.
-  8. Connect the USB cable to the device and laptop/PC.
-    
+ 1. Go to Settings->About phone.
+ 2. Tap five times on the MIUI version; it will enable the Developer option on your device.
+ 3. Go to Settings->Additional Settings -> Developer options and tap on OEM unlocking. Do not enable this but click on the text to go inside.
+ 4. Enter your password/PIN (whichever is set to the device for confirmation) and enable the option.
+ 5. Go to Settings->Additional Settings -> Developer options, and then go to MIUI status and tap on Add account. This step will add the MI account to unlock the bootloader. Sometimes the account does not get added, in which case, restart the phone.
+ 6. Enable USB debugging from Settings->Additional Settings -> Developer options.
+ 7. Switch off the phone and press the Power button and the ‘volume down’ key simultaneously.
+ 8. Connect the USB cable to the device and laptop/PC.
+ 
  ### After completing these steps on the mobile, repeat the folliwing steps on your PC/laptop
-  1. Click on the Unlock button.
-  2. A dialogue box with the following message will appear: “Unlocking
-  3. the phone will erase all phone data. Do you still want to continue to unlock the phone?” Click on Unlock anyway.
-  4. You will see the message shown in Figure 2, if it did not unlock. There is a time specified after which you may try again. The time varies between 24 hours to 360 hours. In my case it was 360 hours, which is nothing but 15 days!
-  5. After the specified period, carry out the same steps, and the bootloader will get unlocked and you will see the result shown in Figure 
-  
+ 1. Click on the Unlock button.
+ 2. A dialogue box with the following message will appear: “Unlocking
+ 3. the phone will erase all phone data. Do you still want to continue to unlock the phone?” Click on Unlock anyway.
+ 4. You will see the message shown in Figure 2, if it did not unlock. There is a time specified after which you may try again. The time varies between 24 hours to 360 hours. In my case it was 360 hours, which is nothing but 15 days!
+ 5. After the specified period, carry out the same steps, and the bootloader will get unlocked and you will see the result shown in Figure 
+
 ![Figure 3](https://1.bp.blogspot.com/-5Dvl43zYSJY/XWwGxpwBc9I/AAAAAAAAbGc/IPzYqq46lMwiAW3LA2xg4gvEqkrndhv0ACEwYBhgL/s1600/could%2Bnot%2Bunlock.jpg)
     
-  ## Installing Team Win Recovery Project (TWRP)
+ ## Installing Team Win Recovery Project (TWRP)
+
 > Team Win Recovery Project (TWRP) is an open source custom recovery image for Android based devices. It provides a touchscreen-enabled interface that allows users to install third-party firmware and back up the current system. It is installed on an Android device when flashing, installing or rooting Android devices.
+
  1. Download the Pixel Experience ROM for your device from the official website https://download.pixelexperience.org. In my case, the device is Redmi Note 4 (Mido); download and save the zip file in the phone memory.
  2. In a Web browser, navigate to the Android SDK tools website https://developer.android.com/studio/releases/platform-tools.html#download. Under the download section you will find three links for your platform Windows, Linux and Mac. Depending on your operating system, download the SDK, which is just around 7MB.
  3. In a Web browser, navigate to https://twrp.me/Devices/ and search for your device. Here, remember that my device is Redmi Note 4 and the name is Xiaomi Redmi Note 4(x) (mido). Go to your device by simply clicking on the link. There is a section called Download links that you can click on. Choose the latest TWRP image and download it.

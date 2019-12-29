@@ -123,9 +123,9 @@ Here are some points to remember before unlocking the bootloader:
 3. You will see the message shown in Figure 2, if it did not unlock. There is a time specified after which you may try again. The time varies betwee n 24 hours to 360 hours. In my case it was 360 hours, which is nothing but 15 days!
 5. After the specified period, carry out the same steps, and the bootloader will get unlocked and you will see the result shown in Figure
 ![Figure 3](https://1.bp.blogspot.com/-5Dvl43zYSJY/XWwGxpwBc9I/AAAAAAAAbGc/IPzYqq46lMwiAW3LA2xg4gvEqkrndhv0ACEwYBhgL/s1600/could%2Bnot%2Bunlock.jpg)
-    
+
 ## Installing Team Win Recovery Project (TWRP)
-> Team Win Recovery Project (TWRP) is an open source custom recovery image for Android based devices. It provides a touchscreen-enabled interface that allows users to install third-party firmware and back up the current system. It is installed on an Android device when flashing, installing or rooting Android devices.
+Team Win Recovery Project (TWRP) is an open source custom recovery image for Android based devices. It provides a touchscreen-enabled interface that allows users to install third-party firmware and back up the current system. It is installed on an Android device when flashing, installing or rooting Android devices.
 
  1. Download the Pixel Experience ROM for your device from the [official website](https://download.pixelexperience.org) In my case, the device is Redmi Note 4 (Mido); download and save the zip file in the phone memory.
  2. In a Web browser, navigate to the [Android SDK tools website](https://developer.android.com/studio/releases/platform-tools.html) Under the download section you will find three links for your platform Windows, Linux and Mac. Depending on your operating system, download the SDK, which is just around 7MB.
@@ -147,25 +147,27 @@ Here are some points to remember before unlocking the bootloader:
 ![Figure 5](https://1.bp.blogspot.com/-L4uRcGlAeZI/XWwLsuYQBJI/AAAAAAAAbGw/5NCCkuiMitQpIjyyprwDBlwwBN4rLcz0wCLcBGAs/s1600/TWRP_2.7.0.0.png)
 
 Now you are already booted into TWRP. It is recommended that you take a backup. Press Backup, select the following options, and swipe right to backup.
-  - ƒƒSystem
-  - Data
-  - Vendor
-  - Recovery
-  - Boot
-  - System image
+- [x] ƒƒSystem
+- [x] Data
+- [x] Vendor
+- [x] Recovery
+- [x] Boot
+- [x] System image
 
-i. Next, wipe the existing stock ROM
+1. Next, wipe the existing stock ROM
 from your device. To do so, go to
 Wipe->Advanced wipe options,
 select the following options and
 wipe them:
-  - ƒƒDalvik
-  - System
-  - Data
-  - Cache
-  - Vendor
+- [x] ƒƒDalvik
+- [x] System
+- [x] Data
+- [x] Cache
+- [x] Vendor
 
-ii. Come back to the Install option and browse for the pixel experience zip file, select it and swipe to flash. It will take some time. Once it is completed, wipe the cache.
-iii. Press the Reboot to start button. Pixel Experience will get started on your device. 
+2. Come back to the Install option and browse for the pixel experience zip file, select it and swipe to flash. It will take some time. Once it is completed, wipe the cache.
+3. Press the Reboot to start button. Pixel Experience will get started on your device. 
 
 >Congratulations, you now have successfully upgraded to Android Pie.
+
+This article is written by Swapnil Vivek Kulkarni and published in technical magazine Open Source For you August 2019 issue. Also available at [OpenSourceForYou.com](https://opensourceforu.com/2019/09/upgrade-to-android-pie-on-any-xiaomi-device-with-the-pixel-experience-rom/) and [PDF version]

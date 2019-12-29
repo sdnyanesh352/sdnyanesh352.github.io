@@ -135,9 +135,36 @@ Here are some points to remember before unlocking the bootloader:
  6. Connect your phone to a computer using a USB cable, and make sure that USB debugging is ON.
  7. Open a command window and CD to the Platform Tools directory.
  Run the following commands on the command prompt:
-  1. Run the command `adb devices` and make sure that your device is listed.
-  2. Run the command `adb bootloader`. It will take you to the bootloader.
-  3. Now type `fastboot devices`. Your device will get listed here.
-  4. Run the command `fastboot flash recovery twrp-image-file.img`.
-  5. Run the command `fastboot boot twrp-image-file.img`.
-  6. Wait for a few moments and you will see the Team Win Recovery Project start on your device.
+  - Run the command `adb devices` and make sure that your device is listed.
+  - Run the command `adb bootloader`. It will take you to the bootloader.
+  - Now type `fastboot devices`. Your device will get listed here.
+  - Run the command `fastboot flash recovery twrp-image-file.img`.
+  - Run the command `fastboot boot twrp-image-file.img`.
+  - Wait for a few moments and you will see the Team Win Recovery Project start on your device.
+![Figure 4](https://1.bp.blogspot.com/-BENEfNL25rU/XWwJclhrn4I/AAAAAAAAbGk/GhD_on9svww9TiOEJwlfImpz8-UUMIcPQCLcBGAs/s1600/command%2Badb.png)
+
+## Steps to install custom ROMon Xiaomi device
+![Figure 5](https://1.bp.blogspot.com/-L4uRcGlAeZI/XWwLsuYQBJI/AAAAAAAAbGw/5NCCkuiMitQpIjyyprwDBlwwBN4rLcz0wCLcBGAs/s1600/TWRP_2.7.0.0.png)
+Now you are already booted into TWRP. It is recommended that you take a backup. Press Backup, select the following options, and swipe right to backup.
+  - ƒƒSystem
+  - Data
+  - Vendor
+  - Recovery
+  - Boot
+  - System image
+
+i. Next, wipe the existing stock ROM
+from your device. To do so, go to
+Wipe->Advanced wipe options,
+select the following options and
+wipe them:
+  - ƒƒDalvik
+  - System
+  - Data
+  - Cache
+  - Vendor
+
+ii. Come back to the Install option and browse for the pixel experience zip file, select it and swipe to flash. It will take some time. Once it is completed, wipe the cache.
+iii. Press the Reboot to start button. Pixel Experience will get started on your device. 
+
+>Congratulations, you now have successfully upgraded to Android Pie.

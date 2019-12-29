@@ -3,7 +3,7 @@ layout: post
 title:  "History of UNIX operating system"
 author: swapnil
 categories: [ Technology, History]
-image: assets/images/Unix.PNG
+image: assets/images/unix.PNG
 tags: [sticky]
 ---
 This is just a short documentary piece on the emerge of UNIX Operating System.

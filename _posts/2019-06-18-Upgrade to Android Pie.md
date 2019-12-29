@@ -147,23 +147,23 @@ Team Win Recovery Project (TWRP) is an open source custom recovery image for And
 ![Figure 5](https://1.bp.blogspot.com/-L4uRcGlAeZI/XWwLsuYQBJI/AAAAAAAAbGw/5NCCkuiMitQpIjyyprwDBlwwBN4rLcz0wCLcBGAs/s1600/TWRP_2.7.0.0.png)
 
 Now you are already booted into TWRP. It is recommended that you take a backup. Press Backup, select the following options, and swipe right to backup.
-- [x] ƒƒSystem
-- [x] Data
-- [x] Vendor
-- [x] Recovery
-- [x] Boot
-- [x] System image
+[x] ƒƒSystem
+[x] Data
+[x] Vendor
+[x] Recovery
+[x] Boot
+[x] System image
 
 1. Next, wipe the existing stock ROM
 from your device. To do so, go to
 Wipe->Advanced wipe options,
 select the following options and
 wipe them:
-- [x] ƒƒDalvik
-- [x] System
-- [x] Data
-- [x] Cache
-- [x] Vendor
+[x] ƒƒDalvik
+[x] System
+[x] Data
+[x] Cache
+[x] Vendor
 
 2. Come back to the Install option and browse for the pixel experience zip file, select it and swipe to flash. It will take some time. Once it is completed, wipe the cache.
 3. Press the Reboot to start button. Pixel Experience will get started on your device. 

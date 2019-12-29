@@ -145,6 +145,7 @@ Here are some points to remember before unlocking the bootloader:
 
 ## Steps to install custom ROMon Xiaomi device
 ![Figure 5](https://1.bp.blogspot.com/-L4uRcGlAeZI/XWwLsuYQBJI/AAAAAAAAbGw/5NCCkuiMitQpIjyyprwDBlwwBN4rLcz0wCLcBGAs/s1600/TWRP_2.7.0.0.png)
+
 Now you are already booted into TWRP. It is recommended that you take a backup. Press Backup, select the following options, and swipe right to backup.
   - ƒƒSystem
   - Data

@@ -170,4 +170,6 @@ wipe them:
 
 >Congratulations, you now have successfully upgraded to Android Pie.
 
-This article is written by Swapnil Vivek Kulkarni and published in technical magazine Open Source For you August 2019 issue. Also available at [OpenSourceForYou.com](https://opensourceforu.com/2019/09/upgrade-to-android-pie-on-any-xiaomi-device-with-the-pixel-experience-rom/) and [PDF version]
+This article is written by Swapnil Vivek Kulkarni and published in technical magazine Open Source For you August 2019 issue. Also available at [OpenSourceForYou.com](https://opensourceforu.com/2019/09/upgrade-to-android-pie-on-any-xiaomi-device-with-the-pixel-experience-rom/) and [PDF version](http://bit.ly/andrpie)
+
+![Magzine](assets/images/android_pie.jpg)

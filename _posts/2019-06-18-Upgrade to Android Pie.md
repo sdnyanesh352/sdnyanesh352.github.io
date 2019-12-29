@@ -116,3 +116,10 @@ Here are some points to remember before unlocking the bootloader:
  6. Enable USB debugging from Settings->Additional Settings -> Developer options.
  7. Switch off the phone and press the Power button and the ‘volume down’ key simultaneously.
  8. Connect the USB cable to the device and laptop/PC.
+ 
+ ### After completing these steps on the mobile, repeat the folliwing steps on your PC/laptop
+1. Click on the Unlock button.
+2. A dialogue box with the following message will appear: “Unlocking
+3. the phone will erase all phone data. Do you still want to continue to unlock the phone?” Click on Unlock anyway.
+4. You will see the message shown in Figure 2, if it did not unlock. There is a time specified after which you may try again. The time varies between 24 hours to 360 hours. In my case it was 360 hours, which is nothing but 15 days!
+5. After the specified period, carry out the same steps, and the bootloader will get unlocked and you will see the result shown in Figure

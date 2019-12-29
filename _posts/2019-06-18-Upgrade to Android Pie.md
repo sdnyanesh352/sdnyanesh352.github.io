@@ -122,3 +122,22 @@ Here are some points to remember before unlocking the bootloader:
 2. A dialogue box with the following message will appear: “Unlocking the phone will erase all phone data. Do you still want to continue to unlock the phone?” Click on Unlock anyway.
 3. You will see the message shown in Figure 2, if it did not unlock. There is a time specified after which you may try again. The time varies betwee n 24 hours to 360 hours. In my case it was 360 hours, which is nothing but 15 days!
 5. After the specified period, carry out the same steps, and the bootloader will get unlocked and you will see the result shown in Figure
+![Figure 3](https://1.bp.blogspot.com/-5Dvl43zYSJY/XWwGxpwBc9I/AAAAAAAAbGc/IPzYqq46lMwiAW3LA2xg4gvEqkrndhv0ACEwYBhgL/s1600/could%2Bnot%2Bunlock.jpg)
+    
+ ## Installing Team Win Recovery Project (TWRP)
+> Team Win Recovery Project (TWRP) is an open source custom recovery image for Android based devices. It provides a touchscreen-enabled interface that allows users to install third-party firmware and back up the current system. It is installed on an Android device when flashing, installing or rooting Android devices.
+
+ 1. Download the Pixel Experience ROM for your device from the [official website](https://download.pixelexperience.org) In my case, the device is Redmi Note 4 (Mido); download and save the zip file in the phone memory.
+ 2. In a Web browser, navigate to the [Android SDK tools website](https://developer.android.com/studio/releases/platform-tools.html) Under the download section you will find three links for your platform Windows, Linux and Mac. Depending on your operating system, download the SDK, which is just around 7MB.
+ 3. In a Web browser, navigate to [Link](https://twrp.m[Link]e/Devices/) and search for your device. Here, remember that my device is Redmi Note 4 and the name is Xiaomi Redmi Note 4(x) (mido). Go to your device by simply clicking on the link. There is a section called Download links that you can click on. Choose the latest TWRP image and download it.
+ 4. Head to the Downloads directory and extract the platform tool’s zip file downloaded in Step 1.
+ 5. Move the TWRP image file downloaded in Step 2 inside the Platform Tools folder.
+ 6. Connect your phone to a computer using a USB cable, and make sure that USB debugging is ON.
+ 7. Open a command window and CD to the Platform Tools directory.
+ Run the following commands on the command prompt:
+  1. Run the command `adb devices` and make sure that your device is listed.
+  2. Run the command `adb bootloader`. It will take you to the bootloader.
+  3. Now type `fastboot devices`. Your device will get listed here.
+  4. Run the command `fastboot flash recovery twrp-image-file.img`.
+  5. Run the command `fastboot boot twrp-image-file.img`.
+  6. Wait for a few moments and you will see the Team Win Recovery Project start on your device.

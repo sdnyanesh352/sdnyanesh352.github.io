@@ -124,7 +124,7 @@ Here are some points to remember before unlocking the bootloader:
 5. After the specified period, carry out the same steps, and the bootloader will get unlocked and you will see the result shown in Figure
 ![Figure 3](https://1.bp.blogspot.com/-5Dvl43zYSJY/XWwGxpwBc9I/AAAAAAAAbGc/IPzYqq46lMwiAW3LA2xg4gvEqkrndhv0ACEwYBhgL/s1600/could%2Bnot%2Bunlock.jpg)
     
- ## Installing Team Win Recovery Project (TWRP)
+## Installing Team Win Recovery Project (TWRP)
 > Team Win Recovery Project (TWRP) is an open source custom recovery image for Android based devices. It provides a touchscreen-enabled interface that allows users to install third-party firmware and back up the current system. It is installed on an Android device when flashing, installing or rooting Android devices.
 
  1. Download the Pixel Experience ROM for your device from the [official website](https://download.pixelexperience.org) In my case, the device is Redmi Note 4 (Mido); download and save the zip file in the phone memory.

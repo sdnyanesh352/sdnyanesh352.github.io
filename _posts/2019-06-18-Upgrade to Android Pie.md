@@ -172,4 +172,4 @@ wipe them:
 
 This article is written by Swapnil Vivek Kulkarni and published in technical magazine Open Source For you August 2019 issue. Also available at [OpenSourceForYou.com](https://opensourceforu.com/2019/09/upgrade-to-android-pie-on-any-xiaomi-device-with-the-pixel-experience-rom/) and [PDF version](http://bit.ly/andrpie)
 
-![Magzine](assets/images/android_pie.jpg)
+![Magzine](/assets/images/android_pie.jpg)

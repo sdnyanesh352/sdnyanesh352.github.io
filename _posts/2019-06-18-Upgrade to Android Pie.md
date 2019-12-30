@@ -4,7 +4,7 @@ title:  "Upgrade to Android Pie on Any Xiaomi Device with the Pixel Experience R
 author: swapnil
 categories: [ Android, Tutorial ]
 image: https://1.bp.blogspot.com/-Kp1ElEKOtDM/XWvyDmnPcHI/AAAAAAAAbGA/ERVM6fmfJRATSXj4MHXf6vXTxCFyzIvNACLcBGAs/s1600/AndroidPie.jpg
-tags: [featured]
+tags: [sticky]
 ---
 
 If you enjoy a hands-on experience and you own a Redmi device, this article will convince you to upgrade to Android Pie with a Pixel Experience ROM. Even if you don’t own a Redmi device, reading this article could help you to upgrade your own device.

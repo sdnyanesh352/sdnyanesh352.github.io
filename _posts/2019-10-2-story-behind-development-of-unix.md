@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Story behind the development of UNIX operating system"
+title: "Story behind the development of UNIX operating system"
 author: swapnil
 categories: [ Technology, History]
 image: assets/images/Story_Behind.PNG

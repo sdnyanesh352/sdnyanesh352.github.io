@@ -3,7 +3,7 @@ layout: post
 title:  "The FOSS Mobile OS War Heats Up!"
 author: swapnil
 categories: [ Insight ]
-image: https://1.bp.blogspot.com/-6UWNLvj4AfU/XNxFnNYfYMI/AAAAAAAAZxY/waeh30FvYvwMad7y-_HkURHh5us3MKCkQCLcBGAs/s1600/rami-al-zayat-170349-unsplash%25281%2529.jpg
+image: assets/images/FOSS.jpg
 tags: [featured]
 ---
 Does the smartphone war have room for more contenders? Like it or not, new mobile OSs keep emerging. Ubuntu, Firefox OS and Tizen are all receiving quite a bit of attention. So where do they stand, as of now?

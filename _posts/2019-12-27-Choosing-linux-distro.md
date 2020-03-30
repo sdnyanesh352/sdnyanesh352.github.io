@@ -3,7 +3,7 @@ layout: post
 title:  "Choosing right Linux Distro Ubuntu, Linux Mint or Fedora for your laptop"
 author: swapnil
 categories: [ Linux, Insight ]
-image: https://2.bp.blogspot.com/-Qt3FRRQ_eR0/UdsHjBoA-kI/AAAAAAAAAfk/ord8IBHfSss/s1600/windows-8-refugees-ubuntu.jpg
+image: assets/images/windows-8-refugees-ubuntu.jpg
 ---
 When any buddy wants to enter into the world of Linux Ocean. One of the hardest questions that every Linux user must answer is, which Linux distribution they should  use. Following three are most popular Linux distributions.
 

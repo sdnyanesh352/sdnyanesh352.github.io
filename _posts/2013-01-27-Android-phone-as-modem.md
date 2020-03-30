@@ -3,7 +3,7 @@ layout: post
 title:  "Use Android phone as modem in Ubuntu / Linux Mint"
 author: swapnil
 categories: [ Linux, tutorial ]
-image: http://1.bp.blogspot.com/-WrZpEV0rbgk/UepeE1i09cI/AAAAAAAAAgM/fIoEKkXdzZE/s1600/Screenshot1.png
+image: assets/images/ubuntu.png
 ---
 In this post I am going show you how to use android phone as a modem to access internet in your Ubuntu/Linux mint machine. Generally we use some tethering apps just like Easy Tether or PDANet, but these apps have limited functionality for free version. for example Easy Tether do not allow to access HTTPS sites in free version.
 

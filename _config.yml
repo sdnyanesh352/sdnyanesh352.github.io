@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'spiritual-geek'
 email: 'swapnil_kulkarni@outlook.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://github.us19.list-manage.com/subscribe/post?u=5fa1e3b68bbade2285da4ad24&amp;id=7cb3d87d04'
 
 include: ["_pages"]
 permalink: /:title/

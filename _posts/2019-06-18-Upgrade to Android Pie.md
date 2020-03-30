@@ -3,7 +3,7 @@ layout: post
 title:  "Upgrade to Android Pie on Any Xiaomi Device with the Pixel Experience ROM"
 author: swapnil
 categories: [ Android, Tutorial ]
-image: https://1.bp.blogspot.com/-Kp1ElEKOtDM/XWvyDmnPcHI/AAAAAAAAbGA/ERVM6fmfJRATSXj4MHXf6vXTxCFyzIvNACLcBGAs/s1600/AndroidPie.jpg
+image: assets/images/AndroidPie.jpg
 tags: [featured]
 ---
 

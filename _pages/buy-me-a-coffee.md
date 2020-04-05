@@ -9,4 +9,4 @@ You have my permission to use the free items I develop in your personal, commerc
 
 Thank you so much!
 
-<a class="btn btn-danger" href="https://p-y.tm/RoB-ki4">Buy me a coffee</a>
+<a class="btn btn-danger" href="https://www.buymeacoffee.com/LBgDq28">Buy me a coffee</a>

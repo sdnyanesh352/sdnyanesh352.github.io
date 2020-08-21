@@ -1,24 +1,43 @@
 ---
 layout: post
-title:  "Keep using Firefox people"
+title:  "The FOSS Mobile OS War Heats Up!"
 author: swapnil
-categories: [ Firefox ]
-image: assets/images/firefox-logo.png
+categories: [ Insight ]
+image: assets/images/FOSS.jpg
+tags: [featured]
 ---
-The recent news of Mozilla laying off its employees has put a question mark on large portion of the community and a lot of posts asking about alternatives to Firefox have popped up.
+Does the smartphone war have room for more contenders? Like it or not, new mobile OSs keep emerging. Ubuntu, Firefox OS and Tizen are all receiving quite a bit of attention. So where do they stand, as of now?
 
-I want to tell those people to keep using Firefox.
+>Android has been a game changer and is currently the most popular mobile operating system. It is very popular because it’s free, open source and backed by Google. While many alternative operating systems like Symbianand Aliyun have existed for a long time, many of these alternatives are popular only in the developing world and really don’t generate much excitement or hype, even though Symbian was pretty big in its hey days.
+Let us discuss some of the new arrivals
 
-It is true that the position of Mozilla is not very good but the Firefox browser is still the best option out there. If you people start to abandon this lone ranger, it will just lower the market share even more. The only way to save Firefox is by using it and encouraging it.
+# Ubuntu
+ Ubuntu is well known to FOSS enthusiasts and has won hearts because it has been the best Linux desktop distro since 2008.
+In the mobile market, Ubuntu OS has been singled out for having tons of potential with its very scalable OS that works
+with phones, tablets, computers and TVs. Recently, Canonical launched the Ubuntu Edge by which a mobile phone can play three major roles in your digital life.
+Here’s how:
+1. Smartphone: Call, send SMSs, video chat and do many more things.
+2. Desktop computers: Connect the phone to an LED monitor by an HDMI cable and the keyboard, mouse and other devices will work wirelessly. 
+3. Your computer is ready, and you can use the same computer in the office as well as at home.
+4. Smart TV: Connect your Ubuntu Edge to your TV with an HDMI cable and your smart TV is ready.
+### Who supports Ubuntu?
+Verizon, which is a big carrier, joined Ubuntu for support. There are likely to be many vendors and possibly even a few carriers in the background that are working with Canonical to get Ubuntu out onto the market, but right now, there aren’t any names being mentioned.
+### What’s the target audience?
+Everyone who loves customisation, tweaking, power and scalability. In short, Ubuntu is the dream OS for the power user
 
-TOR Browser is based on Firefox and if Firefox dies, so does TOR browser. I am sure you all don't want that.
+# Firefox OS
+The idea of an OS that is all about open Web standards isn’t exactly new, and Firefox’s implementation is somewhat like a cross between Web OS and Chrome OS. It has apps,and all of these apps can be locally stored and used offline, but they can also be used directly from the Net if you don’t want to install them directly for whatever reason. The apps will be written in HTML5. The same apps will run on your favorite browser Mozilla Firefox. It is a very light weight OS and will run on basic hardware like a single core processor and 256 MB RAM.
+### Who supports Firefox?
+ZTE, Sony and Huawei carriers, including Deutsche Telekom, Telefonica and possibly others who have yet to come forward officially.
+### What’s the target audience?
+At launch, Firefox showed a very basic handset. Mozilla is also trying to push its OS to lower-end and, eventually, even mid-range markets in North America, Europe and elsewhere. But they could move to the upper end of the market also.
 
-I feel the only hope for Firefox is the privacy community and it should work in the interest of it. We can't let chromium be 100% of the market.
 
-The bottom line is, encourage the use of Firefox. Also we need to have a close eye on its development from now on.
+# Tizen
+Tizen is the official mobile operating system from The Linux Foundation and the launch phone runs on Samsung hardware.
+### Who supports Tizen?
+Being developed by Samsung and Intel, Tizen has many backers like SK Telecom, Sprint, Vodafone, Fujitsu, KT, NEC and Panasonic. Samsung has even added a little extra support in the form of blending parts of its older Bada OS into Tizen.
+### What’s the target audience?
+Instead of completely relying on Android, Samsung now has Tizen and Windows 8 Phone as alternatives. The target audience for Tizen isn’t quite as clear as that for Ubuntu. Samsung and partners will likely produce handsets in the low, middle and high-end ranges. The best answer is that the target audience will comprise those who aren’t quite satisfied with Android, iOS or any of the other options in the market right now.
 
-A lot of people here are telling that they don't like something or the other about Firefox and that's why they choose chromium over it. I agree with you that if you don't like something, you don't have to use it. But again i fear, if tomorrow Firefox is dead and Google makes a controversial change in chromium. What will you choose? People who track chromium know that Google has been trying to push stuff like the URL bar thing, etc etc. Today it listens to the community because an alternative exists, tomorrow when there is no alternative, they won't have this fear.
-
-Firefox can be community driven - Well, it is true that Firefox can be taken by the community, but the browsers have become complicated over the years. Also not every computer can build Firefox( took 12+ hours to build on laptop). We need a big player in the community who can contribute when serious vulnerabilities come up. Linux kernel survives this way because players like Intel, AMD, Amazon etc etc contribute thousands of lines of code everyday. Critical software needs dedicated developers. It will be a hard project to maintain.
-
-Some have rightly pointed the layoffs of critical security members of Mozilla. That maybe right. But it is not enough to just make the switch. We need to observe the development and response of Mozilla and then make decisions. This whole layoff thing has triggered a lot of people to look for alternatives. We need to wait and watch closely
+This article is written by Swapnil Vivek Kulkarni and published in technical magazine Open Source For you September 2013 issue. Also available at [OpenSourceForYou](http://bit.ly/366F555).

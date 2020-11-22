@@ -5,7 +5,6 @@ author: swapnil
 categories: [ Firefox ]
 image: assets/images/firefox-logo.png
 ---
-The recent news of Mozilla laying off its employees has put a question mark on large portion of the community and a lot of posts asking about alternatives to Firefox have popped up.
 
 I want to tell those people to keep using Firefox.
 

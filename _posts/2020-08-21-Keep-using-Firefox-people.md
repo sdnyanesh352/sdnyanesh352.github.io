@@ -4,6 +4,7 @@ title:  "Keep using Firefox people"
 author: swapnil
 categories: [ Firefox ]
 image: assets/images/firefox-logo.png
+tags: [featured]
 ---
 
 I want to tell those people to keep using Firefox.

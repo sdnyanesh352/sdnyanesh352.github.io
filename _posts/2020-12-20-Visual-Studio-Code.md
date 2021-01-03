@@ -16,7 +16,6 @@ Visual Studio Code is a streamlined code editor with support for development ope
 
 #### Why has Visual Studio Code become popular in a short period of time?
 * **It is free**: The developer community is not really interested in paying for software like IDEs, and Visual Studio Code is free. However, there are a number of other free IDEs too, like Brackets, Eclipse, Atom, Sublime Text, etc. So this is not the only reason why this editor is popular.
-A lot of people here are telling that they don't like something or the other about Firefox and that's why they choose chromium over it. I agree with you that if you don't like something, you don't have to use it. But again i fear, if tomorrow Firefox is dead and Google makes a controversial change in chromium. What will you choose? People who track chromium know that Google has been trying to push stuff like the URL bar thing, etc etc. Today it listens to the community because an alternative exists, tomorrow when there is no alternative, they won't have this fear.
 * **Great companion to Visual Studio**: Most developers like the simplicity of Microsoft applications and already are familiar with great source code IDEs like Visual Studio.
 * **Cross-platform**: Visual Studio Code is also available for all the three major OSs: Windows, Linux, and MacOS.
 * **Great ecosystem**: It has a great ecosystem of plugins for the languages of your choice and more people are developing these daily. Supported by a techno-giant, it has all the benefits of the Microsoft ecosystem.

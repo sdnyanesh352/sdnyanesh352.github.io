@@ -67,4 +67,5 @@ In 1991, that wait was over. Linus Torvalds, a student from the University of He
 The Linux operating system shares most of its components with UNIX. Text editors like Emacs, Vi, the UNIX shell, compilers and many more utilities are common in both Linux and UNIX.
 
 >**This article is written by Swapnil Vivek Kulkarni and published in technical magazine Open Source For you May 2019 issue. Also available at [OpenSourceForYou.com](https://opensourceforu.com/) and [PDF version](http://bit.ly/unixStory)**
+
 ![Magzine](/assets/images/OSFY_cover_unix.PNG)

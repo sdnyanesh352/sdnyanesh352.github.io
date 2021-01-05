@@ -40,6 +40,6 @@ VSCodium is a community-driven, freely licensed binary distribution of Microsoft
 
 If you want to build from source yourself, head over to Microsoft’s [VS Code Github repo](https://github.com/Microsoft/vscode) and follow the [instructions](https://github.com/Microsoft/vscode/wiki/How-to-Contribute#build-and-run). VSCodium makes it easier to get the 100 per cent open source latest version of the MIT-licensed VS Code.
 
->**This article is written by Swapnil Vivek Kulkarni and published in technical magazine Open Source For you January 2021 issue. Also available as [OpenSourceForYou.com](https://opensourceforu.com/) and [PDF version](https://drive.google.com/file/d/1PQiWebhNcgUZiEbjuJT960T3lEbXdT_G/view?usp=sharing)**
+>**This article is written by Swapnil Vivek Kulkarni and published in technical magazine Open Source For you January 2021 issue. Also available at [OpenSourceForYou.com](https://opensourceforu.com/) and [PDF version](http://bit.ly/osfyvscode)**
 
 ![Magzine](/assets/images/CoverPageVsCode.JPG)

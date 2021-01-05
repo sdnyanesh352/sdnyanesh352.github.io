@@ -65,3 +65,6 @@ In 1983, the GNU project was started by Richard Stallman with the goal of creati
 In 1991, that wait was over. Linus Torvalds, a student from the University of Helsinki, introduced the Linux kernel, which was developed as part of an educational project. Later, it merged with Stallman’s GNU project that was UNIX-like but free.
 
 The Linux operating system shares most of its components with UNIX. Text editors like Emacs, Vi, the UNIX shell, compilers and many more utilities are common in both Linux and UNIX.
+
+>**This article is written by Swapnil Vivek Kulkarni and published in technical magazine Open Source For you May 2019 issue. Also available at [OpenSourceForYou.com](https://opensourceforu.com/) and [PDF version](http://bit.ly/unixStory)**
+![Magzine](/assets/images/OSFY_cover_unix.PNG)

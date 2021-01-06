@@ -40,4 +40,6 @@ Being developed by Samsung and Intel, Tizen has many backers like SK Telecom, Sp
 ### What’s the target audience?
 Instead of completely relying on Android, Samsung now has Tizen and Windows 8 Phone as alternatives. The target audience for Tizen isn’t quite as clear as that for Ubuntu. Samsung and partners will likely produce handsets in the low, middle and high-end ranges. The best answer is that the target audience will comprise those who aren’t quite satisfied with Android, iOS or any of the other options in the market right now.
 
-This article is written by Swapnil Vivek Kulkarni and published in technical magazine Open Source For you September 2013 issue. Also available at [OpenSourceForYou](http://bit.ly/366F555).
+>**This article is written by Swapnil Vivek Kulkarni and published in technical magazine Open Source For you September 2013 issue. Also available at [OpenSourceForYou.com](https://opensourceforu.com/) and [PDF version](http://bit.ly/366F555)**
+
+![Magzine](/assets/images/Cover_Sep2013.jpg)

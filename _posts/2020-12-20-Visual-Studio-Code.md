@@ -10,7 +10,7 @@ image: assets/images/VScode_Codium.png
 
 Before going to the Visual Studio Code editor, let’s understand the difference between Chrome and Chromium. Chromium is an open source Web browser project maintained by Google. This browser is completely open source and freely available for download from the official Chromium website. Chrome is a branded version of Chromium with additional features (which are proprietary, not open source) that have been developed by Google for the former.
 
-> Chrome is free but not 100 per cent open source; it is a branded version of Chromium and proprietary to Google. (If you read the licence agreement, you will find out this difference.)
+> Chrome is free but not 100 percent open source; it is a branded version of Chromium and proprietary to Google. (If you read the licence agreement, you will find out this difference.)
 
 Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running and version control. It has integrated all the tools that are required by developers for a quickcode-build-debug cycle. Freely available for private or commrcial use, it can run on MacOS, Linux and Windows platforms.
 
